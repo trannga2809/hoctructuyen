@@ -1,0 +1,95 @@
+.header{
+	width: 1100px;
+	height: 250px;
+}
+
+.menu button{
+	padding: 0px 20px 0px 20px;
+	height: 30px;
+}
+
+.menu{
+	margin-top: 5px ;
+	padding-left: 40px;
+	margin-bottom: 5px;
+
+}
+.logo{
+	
+	height: 200px;
+	background: no-repeat; 
+}
+.search_box{
+	display: flex;
+	font-size: inherit;
+	float: right;
+	line-height: 30px;
+	padding-right: 40px;
+	height: 30px;
+}
+.search_input{
+	border: 2px solid #7e7;
+	border-radius: 9px 0px 0px 9px;
+	padding:2px 9px;
+	outline: 0;
+	line-height: 30px;
+}
+.search_button{
+	font-size: inherit;
+	border-radius:  0px 9px 9px 0px;
+	border: 2px solid #7e7;
+	background-color: #7e7;
+	border-left: 0px;
+	padding: 0 5px;
+	color: white;
+	font-weight: bold;
+	outline: 0;
+	float: right;
+	cursor: pointer;
+	
+	line-height: 30px;
+}
+.clear{
+	clear:both;
+}
+.Tieude{
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 30px;
+	text-align: center;
+	color: #fff;
+	background: green;
+	width: 500px;
+	
+}
+.logo img{
+	width: 1090px;
+	height: 200px;
+	
+}
+.row div{
+	
+	height: 300px;
+	}
+
+#row-first-1{
+	margin-top: 100px;
+}
+
+#row-first-2{
+	margin-top: 40px;
+}
+.col-sm-4 img{
+	width: 350px;
+	height: 200px;
+	
+}
+
+.col-sm-4 h2{
+	font-size: 13px;
+}
+
+.col-sm-4 h1{
+	font-size: 20px;
+}
+
