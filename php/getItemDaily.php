@@ -8,7 +8,7 @@ if(!$link){
 }
 else{ 
 	// nhận giá trị gửi đến bằng phương thức GET vơi định danh là m
-	$id=$_GET['m']??'1';
+	$id=$_GET['m'];
 	//định dạng dữ liệu trả về định dạng UTF8
 	mysqli_set_charset($link,'UTF8');
 	// tạo câu lệnh truy vấn sql
